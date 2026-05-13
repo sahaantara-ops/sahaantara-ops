@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m currently working on webdeveloping,
+- 🌱 I’m currently learning languages-Javascript,libraries-StripeJS , Next-Auth,Frameworks - React.Js,Next.Js,TailwindCSS,
+ExpressJS,NodeJS;Database - MongoDB,Tools -VSCode,Figma
 
 <!--
 **sahaantara-ops/sahaantara-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
