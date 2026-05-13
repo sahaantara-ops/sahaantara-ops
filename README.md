@@ -1,5 +1,6 @@
-## Hi there 👋
-- 🔭 I’m currently working on webdeveloping,
+## Hi there 
+I am Antara, an undergraduate student with an interest in learning programming languages.
+- 🔭 Currently ,I’m currently working on webdeveloping,
 - 🌱 I’m currently learning languages-Javascript,libraries-StripeJS , Next-Auth,Frameworks - React.Js,Next.Js,TailwindCSS,
 ExpressJS,NodeJS;Database - MongoDB,Tools -VSCode,Figma
 
